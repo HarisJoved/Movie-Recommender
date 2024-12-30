@@ -49,13 +49,5 @@ Below are some sample movie posters used in the project:
 - ![Fight Club](fight%20club.png)
 - ![Interstellar](interstellar.png)
 - ![Shaolin Soccer](shaolin%20soccer.png)
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-- TMDb for providing the datasets.
-- Contributors and libraries that made this project possible.
-
 ---
 Feel free to modify and enhance this project as needed!
